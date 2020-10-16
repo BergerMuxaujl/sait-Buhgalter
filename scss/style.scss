@@ -1,13 +1,7 @@
-body{
-    display: flex;
-    margin: 40px;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid orange;
-    div{
-        width:200px;
-        height: 200px;
-        background-color: brown;
-        margin: 20px;
-    }
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
 }
